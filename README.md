@@ -7,6 +7,8 @@ Based on "Bottango" at https://www.bottango.com/
 
 Based on "Bottango on YouTube" at https://www.youtube.com/@Bottango
 
+Based on "Docs of Bottango" at https://s3.us-west-1.amazonaws.com/bottango.com/version+0.6.5/Documentation/BottangoDocumentation.pdf **Check latest version**
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
