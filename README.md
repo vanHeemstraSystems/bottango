@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+bottango
+# Bottango
 
-Based on "ABC" at https://www.abc.com/
+Based on "Bottango" at https://www.bottango.com/
 
 ## 100 - Introduction
 
