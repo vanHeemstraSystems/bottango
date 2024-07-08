@@ -5,6 +5,8 @@ bottango
 
 Based on "Bottango" at https://www.bottango.com/
 
+Based on "Bottango on YouTube" at https://www.youtube.com/@Bottango
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
