@@ -1,6 +1,8 @@
 bottango
 # Bottango
 
+> Powerful Animatronic Animation Software
+
 Based on "Bottango" at https://www.bottango.com/
 
 ## 100 - Introduction
